@@ -1,0 +1,15 @@
+body {
+    background-color: #000536;
+    font-family: Bahnschrift;
+    color: #fff;
+    margin: 50px;
+}
+
+th, h2 {
+    text-decoration: underline;
+}
+
+hr {
+    border: 2px solid white;
+    border-radius: 2px;
+}
