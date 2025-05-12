@@ -66,3 +66,15 @@ a:hover {
 a:visited {
     color: #c4caff;
 }
+
+footer {
+    background-color:#c4caff;
+    padding: 5px 40px;
+    text-align: center;
+    border: 5px solid white;
+    border-radius: 5px;
+}
+
+#title {
+    color:white;
+}
