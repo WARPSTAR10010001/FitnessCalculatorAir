@@ -3,7 +3,7 @@ function bmi(){
     var height = document.getElementById("height").value
 
     if(weight === "" || height === ""){
-        document.getElementById("result").innerHTML = "Bitte Werte eintragen."
+        document.getElementById("result").innerHTML = "Please enter values."
     } else {
         height = height / 100
         var result = weight / (height * height)
