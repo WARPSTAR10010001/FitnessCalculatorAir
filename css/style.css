@@ -44,12 +44,7 @@ td {
     text-align: center;
 }
 
-#calculator {
-    width: 15%;
-    text-align: center;
-}
-
-#needed-data {
+#needed-data, #calculator {
     width: 25%;
     text-align: center;
 }
@@ -77,6 +72,9 @@ footer {
 
 #title {
     color:white;
+    text-decoration: none;
+    vertical-align:baseline;
+    width: 50px;
 }
 
 #p-result {
