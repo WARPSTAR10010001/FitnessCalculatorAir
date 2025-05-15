@@ -7,6 +7,6 @@ function bmi(){
     } else {
         height = height / 100
         var result = weight / (height * height)
-        document.getElementById("result").innerHTML = result
+        document.getElementById("result").innerHTML = result.toFixed(2);
     }
 }
